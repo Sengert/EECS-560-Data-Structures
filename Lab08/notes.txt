@@ -1,0 +1,9 @@
+Min Max Heap
+        Root is at A[1]
+        To find children 2p, 2p+1
+
+        To find parent i/2
+        To find grandparent i/4
+        at for a given element in index [i]
+
+        
